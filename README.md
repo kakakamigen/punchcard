@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+这是我用React编写的学生组织的第一次实训项目，也是第一次使用github，主要是为今后学习打下基础
 
 ## Available Scripts
 
